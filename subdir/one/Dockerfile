@@ -1,1 +1,1 @@
-FROM registry.access.redhat.com/ubi10/ubi:10.1
+FROM registry.access.redhat.com/ubi10/ubi:10.1@sha256:36cb60ea40f2c1f09de4327399fe1bc6c8653e8da62a918babbe3e7f04b784e7
