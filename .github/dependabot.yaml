@@ -7,6 +7,6 @@ version: 2
 updates:
   - package-ecosystem: "docker" # See documentation for possible values
     directories:
-      - "subdir/*/"
+      - "subdir/*"
     schedule:
       interval: "daily"
