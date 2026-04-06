@@ -1,1 +1,2 @@
-FROM registry.access.redhat.com/ubi10/ubi:10.0
+ARG BASE_IMAGE=registry.access.redhat.com/ubi10/ubi:latest@sha256:0ebbf972f63e1f06f77029cd3ee0d562ed7e2480c88ab39750f12cca93253f8f
+FROM ${BASE_IMAGE}
